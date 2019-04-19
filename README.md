@@ -1,2 +1,2 @@
-# CPlusPlus_Algorithms
-- Important data structures and algorithms used in C++
+# C++
+- Repository contains some important data structures and algorithms used in C++
